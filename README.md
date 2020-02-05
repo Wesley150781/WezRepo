@@ -1,2 +1,0 @@
-# WezRepo
-Wesley's Repository
